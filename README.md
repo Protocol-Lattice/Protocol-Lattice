@@ -15,4 +15,3 @@ Set `PORT` or `HOST` when you need a different local bind address:
 ```bash
 PORT=8080 npm start
 ```
-# Protocol-Lattice
